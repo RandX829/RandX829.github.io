@@ -1,0 +1,8 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { 
+        "namespace": "android_app", 
+        "package_name": "tokyo.randx.portfolio.android.deeplink",
+        "sha256_cert_fingerprints": ["3F:79:AD:24:A8:1C:0C:D2:EB:B4:80:56:6E:8B:22:F3:0F:FD:43:95:3C:BD:9E:E3:34:23:A3:BB:C8:82:37:FC"]
+     }
+}]
